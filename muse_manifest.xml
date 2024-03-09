@@ -1,0 +1,109 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="false" exportTarget="other" domain="rocket-espresso.com" resolutions="1x,2x" timestamp="1467864660629">
+  <folder name="css">
+    <file name="site_global.css" crc="261577711"/>
+    <file name="master_usb-master.css" crc="193455452" ref="instruction-books:index"/>
+    <file name="master_usb-master-2.css" crc="41139825" ref="accessories"/>
+    <file name="master_usb-master-3.css" crc="4240347304" ref="how-to-guides"/>
+    <file name="instruction-books.css" crc="4181891999" ref="instruction-books"/>
+    <file name="index.css" crc="4282345654" ref="index"/>
+    <file name="how-to-guides.css" crc="363640340" ref="how-to-guides"/>
+    <file name="accessories.css" crc="13268952" ref="accessories"/>
+  </folder>
+  <folder name="fonts">
+    <file name="2f1be9_1_0.woff" crc="460832061"/>
+    <file name="2f1be9_1_0.eot" crc="524250085"/>
+    <file name="2f1c24_1_0.svg" crc="4236035894"/>
+    <file name="2f1be9_2_0.woff" crc="137806413"/>
+    <file name="2f1be9_2_0.eot" crc="77018247"/>
+    <file name="2f1c24_2_0.svg" crc="140076201"/>
+    <file name="2f1be9_3_0.woff" crc="4097040883"/>
+    <file name="2f1be9_3_0.eot" crc="4124331141"/>
+    <file name="2f1c24_3_0.svg" crc="3937361161"/>
+  </folder>
+  <folder name="assets">
+    <file name="rocket-instruction_english.pdf" crc="4066174274" seo="true" mt="1467350678000"/>
+    <file name="rocket-a5-user-manual_german.pdf" crc="392385314" seo="true" mt="1467335776000"/>
+    <file name="rocket-a5-user-manual_french.pdf" crc="4221137946" seo="true" mt="1464932942000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="museutils.js" crc="4155826306" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="whatinput.js" crc="86476730" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="museconfig.js" crc="328327953" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="pie.js" crc="3827607177" ref="index:accessories:how-to-guides"/>
+    <file name="webpro.js" crc="4078243563" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="touchswipe.js" crc="157639107" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="require.js" crc="228336483" ref="index:accessories:how-to-guides:instruction-books"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3924349929" ref="index"/>
+    <file name="rocketlogo_white.svg" crc="105903655" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="rocketlogo_white_poster_.png" crc="3782079713" ref="index"/>
+    <file name="rocket-certified.svg" crc="4221526144" seo="true" ref="index"/>
+    <file name="rocket certified_poster_.png" crc="269017350" ref="index"/>
+    <file name="home_espresso_cup.jpg" crc="4133289164" seo="true" ref="index"/>
+    <file name="home_espresso_cup_2x.jpg" crc="353334352" seo="true" ref="index"/>
+    <file name="home-r58-extraction.jpg" crc="127072120" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home-r58-extraction_2x.jpg" crc="4252295684" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home_accessories.jpg" crc="4034180523" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home_accessories_2x.jpg" crc="4072324055" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home-instruction-book.png" crc="4139547091" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home-instruction-book_2x.png" crc="3828721904" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home_our_story_video.jpg" crc="225197890" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home_r58_time_lapse_video.jpg" crc="4214362101" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="home_r58_time_lapse_video_2x.jpg" crc="3988128926" seo="true" ref="index:accessories:how-to-guides:instruction-books"/>
+    <file name="banner-images-32.jpg" crc="208392912" ref="index"/>
+    <file name="banner-images-32_2x.jpg" crc="74540741" ref="index"/>
+    <file name="rocketlogo_cropped_dark.svg" crc="198814515" ref="index:accessories:how-to-guides"/>
+    <file name="rocketlogo_cropped_dark_poster_u36463.png" crc="433164781" ref="index:accessories:how-to-guides"/>
+    <file name="banner-images-21.jpg" crc="4222056219" ref="accessories"/>
+    <file name="banner-images-21_2x.jpg" crc="4229369366" ref="accessories"/>
+    <file name="macinatore_fausto_grinder.jpg" crc="4278222559" seo="true" ref="accessories"/>
+    <file name="macinatore_fausto_grinder_2x.jpg" crc="3798837590" seo="true" ref="accessories"/>
+    <file name="rocket-espresso-cups.jpg" crc="3846546641" seo="true" ref="accessories"/>
+    <file name="dump_box.jpg" crc="405890662" seo="true" ref="accessories"/>
+    <file name="dump_box_2x.jpg" crc="395470377" seo="true" ref="accessories"/>
+    <file name="bottomless_portafilter.jpg" crc="298096465" seo="true" ref="accessories"/>
+    <file name="bottomless_portafilter_2x.jpg" crc="433979721" seo="true" ref="accessories"/>
+    <file name="tamper.jpg" crc="3894494046" seo="true" ref="accessories"/>
+    <file name="tamper_2x.jpg" crc="536247577" seo="true" ref="accessories"/>
+    <file name="tamp_station.jpg" crc="4184990250" seo="true" ref="accessories"/>
+    <file name="tamp_station_2x.jpg" crc="157466603" seo="true" ref="accessories"/>
+    <file name="milk_jug.jpg" crc="4119548939" seo="true" ref="accessories"/>
+    <file name="milk_jug_2x.jpg" crc="4109005254" seo="true" ref="accessories"/>
+    <file name="stainless_steel_cup_frame.jpg" crc="517818585" seo="true" ref="accessories"/>
+    <file name="stainless_steel_cup_frame_2x.jpg" crc="4165475117" seo="true" ref="accessories"/>
+    <file name="water_filter.jpg" crc="151480673" seo="true" ref="accessories"/>
+    <file name="water_filter_2x.jpg" crc="4094601043" seo="true" ref="accessories"/>
+    <file name="steam_wand_tips-crop-u13168.jpg" crc="200986240" ref="accessories"/>
+    <file name="steam_wand_tips-crop-u13168_2x.jpg" crc="446737962" ref="accessories"/>
+    <file name="rocket-t-shirts.jpg" crc="3872256160" seo="true" ref="accessories"/>
+    <file name="rocket-t-shirts_2x.jpg" crc="4094845859" seo="true" ref="accessories"/>
+    <file name="white_black_milk_jugs.jpg" crc="3907132917" seo="true" ref="accessories"/>
+    <file name="white_black_milk_jugs_2x.jpg" crc="409044836" seo="true" ref="accessories"/>
+    <file name="banner-images-9.jpg" crc="4067761313" ref="how-to-guides"/>
+    <file name="banner-images-9_2x.jpg" crc="3782148942" ref="how-to-guides"/>
+    <file name="giotto_evo_hero_thumbnail.jpg" crc="4167632410" seo="true" ref="how-to-guides"/>
+    <file name="milk_texturing_thumb.jpg" crc="279573392" seo="true" ref="how-to-guides"/>
+    <file name="extraction_thumb.jpg" crc="3960946436" seo="true" ref="how-to-guides"/>
+    <file name="care_and_maintenance_thumb-crop-u9496.jpg" crc="171343842" ref="how-to-guides"/>
+    <file name="instruction-manual-covers-for-web-crop-u35588.png" crc="4103346871" ref="instruction-books"/>
+    <file name="instruction-manual-covers-for-web-crop-u35588_2x.png" crc="450136881" ref="instruction-books"/>
+    <file name="instruction-manual-covers-for-web-crop-u35294.png" crc="258613211" ref="instruction-books"/>
+    <file name="instruction-manual-covers-for-web-crop-u35294_2x.png" crc="494853049" ref="instruction-books"/>
+    <file name="instruction-manual-covers-for-web-crop-u35595.png" crc="4162318123" ref="instruction-books"/>
+    <file name="instruction-manual-covers-for-web-crop-u35595_2x.png" crc="52486722" ref="instruction-books"/>
+    <file name="banner-images-19.jpg" crc="4114388170" ref="instruction-books"/>
+    <file name="banner-images-19_2x.jpg" crc="3884144396" ref="instruction-books"/>
+  </folder>
+  <file name="index.html" crc="3941096151" seo="true" mt="1467350403206" redirect="true"/>
+  <file name="accessories.html" crc="140784030" seo="true" mt="1467350825608" redirect="true"/>
+  <file name="how-to-guides.html" crc="171423156" seo="true" mt="1467350825903" redirect="true"/>
+  <file name="instruction-books.html" crc="4056340200" seo="true" mt="1467350717189" redirect="true"/>
+</manifest>
