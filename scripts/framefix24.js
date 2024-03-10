@@ -1,1 +1,3 @@
-window.addEventListener("load", function(){alert("Loaded")}) 
+window.addEventListener("load", function() {
+    alert("Loaded");
+}); 
