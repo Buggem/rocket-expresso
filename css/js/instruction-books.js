@@ -4,4 +4,5 @@ let ibcss = '.version.instruction_books{color:#0000F9;background-color:#429B9F;}
 
 let ibelem = document.createElement("style");
 ibelem.innerHTML = ibcss;
+ibelem.id = "pagesheet";
 document.head.appendChild(ibelem);

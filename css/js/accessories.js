@@ -4,4 +4,5 @@ let acss = '.version.how_to_guides{color:#000015;background-color:#ACB614;}#page
 
 let aelem = document.createElement("style");
 aelem.innerHTML = acss;
+aelem.id = "pagesheet";
 document.head.appendChild(aelem);

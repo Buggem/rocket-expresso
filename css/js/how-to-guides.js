@@ -4,4 +4,5 @@ let htgcss = '.version.how_to_guides{color:#000015;background-color:#ACB614;}#pa
 
 let htgelem = document.createElement("style");
 htgelem.innerHTML = htgcss;
+htgelem.id = "pagesheet";
 document.head.appendChild(htgelem);

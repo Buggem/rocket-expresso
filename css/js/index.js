@@ -4,4 +4,5 @@ let icss = '.version.index{color:#0000FF;background-color:#3F68B6;}#page{z-index
 
 let ielem = document.createElement("style");
 ielem.innerHTML = icss;
+ielem.id = "pagesheet";
 document.head.appendChild(ielem);
