@@ -2,6 +2,6 @@ let acss = '.version.how_to_guides{color:#000015;background-color:#ACB614;}#page
 
 
 
-let htgelem = document.createElement("style");
-htgelem.innerHTML = htgcss;
-document.head.appendChild(htgelem);
+let aelem = document.createElement("style");
+aelem.innerHTML = acss;
+document.head.appendChild(aelem);
